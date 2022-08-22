@@ -34,6 +34,8 @@ const Navbar = () => {
        <Wrapper>
         <Left>
             <Language>EN</Language>
+            <Language>FR</Language>
+            <Language>SP</Language>
         </Left>
         <Center>center</Center>
         <Right>right</Right>
